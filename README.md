@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Wilkenson Canton Medel</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cusoft.tech/wp-content/uploads/2024/05/working.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
